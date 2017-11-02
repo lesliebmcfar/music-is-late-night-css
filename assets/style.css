@@ -1,0 +1,8 @@
+
+.album{
+    background-color: rgb(144, 177, 195);
+   /*  background-image: url('sheetMusic.jpg'); */
+   background-image: -webkit-gradient(linear, left top, left bottom, from(90B1C3), to(065FA4));
+  
+    
+}
